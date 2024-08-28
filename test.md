@@ -8,8 +8,6 @@
 
 ![Image Alt Text](images/luffy.jpeg)
 
-## Section Two
-
 ### test anchor
 
 [Go to Section Two](#section-two)
